@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Valenceo
+title:               Yet another \'blog!
 tagline:             welcome!
-url:                 http://blog.valenceo.com
+url:                 https://github.com/matt-hayden
 paginate:            1
 baseurl:             ""
 
@@ -19,14 +19,14 @@ sass:
 author:
   name:              Matt Hayden
   url:               https://github.com/matt-hayden
-  email:             manager+blog@valenceo.com
+  email:             hayden+github@morp.holo.gy
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/matt-hayden/blog-valenceo
+  repo:              https://github.com/matt-hayden/jekyll-blog
 google_analytics:
-  id:                UA-102590217-1
+  #id:                
 
 # Gems
 gems:
